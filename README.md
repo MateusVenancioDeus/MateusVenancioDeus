@@ -1,46 +1,61 @@
-<h1 align="center">Olá, eu sou o Mateus! 👋</h1>
+<h1 align="center">Oii! Eu sou o Mateus 👋</h1>
+
+<div align="center">
+  <a href="https://github.com/seu-usuario">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+</div>
+
+---
+
+### 🧠 Sobre mim
+
+- 👨‍🎓 Tenho **19 anos**
+- 💻 Estudo **Ciência da Computação**
+- 👨‍🔧 Conhecimento em **Python**, **C** e **Hardware**
+- 🚀 Foco em lógica de programação, automação e projetos práticos
+
+---
+
+### 💡 Tecnologias que uso
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mateus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Mateus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mateus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+---
+
+### 🌐 Redes sociais & contato
+
+<div>
+  <a href="https://www.youtube.com/@seu-canal" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/seuuser" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://twitch.tv/seucanal" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"/>
+  </a>
+  <a href="https://discord.gg/seuservidor" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="mailto:seuemail@email.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
+
+---
 
 <p align="center">
-  💻 Estudante de <strong>Ciência da Computação</strong> – 19 anos<br>
-  🔧 Apaixonado por <strong>tecnologia, programação e hardware</strong><br>
-  🎯 Buscando evoluir diariamente como desenvolvedor
+  <img src="https://github-profile-trophy.vercel.app/?username=seu-usuario&theme=tokyonight&row=1&column=6"/>
 </p>
 
-<hr>
-
-<h2>🧠 Tecnologias que conheço:</h2>
-
-<ul>
-  <li>💡 <strong>Linguagens:</strong> C, Python</li>
-  <li>🖥️ <strong>Hardware:</strong> Montagem, diagnóstico e suporte técnico</li>
-  <li>🔍 <strong>Conceitos:</strong> Estruturas de dados, lógica, algoritmos</li>
-</ul>
-
-<h2>📂 Meus projetos incluem:</h2>
-
-<ul>
-  <li>🎮 <strong>Jogos simples em Python</strong> (ex: jogo de cartas no terminal)</li>
-  <li>🛠️ <strong>Sistemas com C</strong> (manipulação de arquivos, sensores, busca binária)</li>
-  <li>⚙️ <strong>Automação e scripts úteis</strong> para o dia a dia</li>
-</ul>
-
-<h2>🚀 Meus objetivos:</h2>
-
-<ul>
-  <li>📘 Aprender desenvolvimento web e banco de dados</li>
-  <li>🌐 Contribuir com projetos open source</li>
-  <li>🏆 Me tornar um desenvolvedor completo (full stack / sistemas)</li>
-</ul>
-
-<hr>
-
-<h2>📫 Como me encontrar:</h2>
-
-<ul>
-  <li>🔗 <strong>GitHub:</strong> github.com/seu-usuario</li>
-  <li>📧 <strong>Email:</strong> seuemail@email.com</li>
-</ul>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
