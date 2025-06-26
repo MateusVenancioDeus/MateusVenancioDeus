@@ -24,9 +24,6 @@
 ### 🌐 Redes sociais & contato
 
 <div>
-  <a href="https://www.youtube.com/@seu-canal" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-  </a>
   <a href="mailto:mateusvenanciodedeus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
