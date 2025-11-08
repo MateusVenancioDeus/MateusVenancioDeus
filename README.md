@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Tenho **19 anos**
 - 💻 Estudo **Ciência da Computação**
-- 👨‍🔧 Conhecimento em **Python**, **C** e **Hardware**
+- 👨‍🔧 Conhecimento em **Python**, **C**, **Java**, **Hardware**
 - 🚀 Foco em lógica de programação, automação e projetos práticos
 
 ---
