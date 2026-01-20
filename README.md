@@ -9,23 +9,23 @@
 
 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação com forte base em algoritmos, estruturas de dados e programação orientada a objetos. Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais, utilizando C, Java e Python, com foco em escrever código limpo, organizado e funcional.
+- Sou estudante de Ciência da Computação com forte base em algoritmos, estruturas de dados e programação orientada a objetos. Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais, utilizando C, Java e Python, com foco em escrever código limpo, organizado e funcional.
 
 Tenho grande interesse em desenvolvimento backend, automação e integração com bancos de dados, sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento de software.
 
 🛠️ Tecnologias & Ferramentas
 
-Linguagens: C, Java, Python
+- Linguagens: C, Java, Python
 
-Banco de Dados: MySQL, SQL
+- Banco de Dados: MySQL, SQL
 
-Paradigmas: Programação Orientada a Objetos, Estruturas de Dados
+- Paradigmas: Programação Orientada a Objetos, Estruturas de Dados
 
-Versionamento: Git, GitHub
+- Versionamento: Git, GitHub
 
-Interface Gráfica: Tkinter
+- Interface Gráfica: Tkinter(Python)
 
-Ferramentas: VS Code, Pacote Office
+- Ferramentas: VS Code, Pacote Office
 
 📂 Projetos em Destaque
 
@@ -44,7 +44,7 @@ Aplicação com interface gráfica integrada a banco de dados, realizando opera�
 
 Bacharelado em Ciência da Computação (em andamento – 5º período)
 
-Curso de Python Avançado
+Curso de Python Avançado(Cursando)
 
 Curso de Introdução à Cibersegurança – Cisco
 
