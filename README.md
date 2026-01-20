@@ -1,8 +1,6 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
 ### 🧠 Sobre mim
 
-👋 Olá, eu sou o Mateus Venâncio
-
 🎓 Estudante de Ciência da Computação (5º período)
 💻 Programador Júnior com foco em lógica de programação, backend e projetos práticos
 📍 Brasília – DF
@@ -78,24 +76,22 @@ Inglês Avançado (em andamento) – leitura técnica e comunicação profission
   <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278"
      target="_blank"
      style="text-decoration: none;">
-    <button
-      style="
-        background: linear-gradient(135deg, #6ec1ff, #2f80ed);
-        color: white;
-        border: none;
-        border-radius: 14px;
-        padding: 14px 28px;
-        font-size: 16px;
-        font-weight: 600;
-        cursor: pointer;
-        box-shadow: 0 6px 18px rgba(47, 128, 237, 0.45);
-        transition: transform 0.2s ease, box-shadow 0.2s ease;
-      "
-      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 22px rgba(47,128,237,0.65)'"
-      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 18px rgba(47,128,237,0.45)'"
-    >
-      💼 LinkedIn
-    </button>
+     
+    <div style="
+      background-color: #0a66c2;
+      color: #ffffff;
+      padding: 14px 36px;
+      border-radius: 8px;
+      font-size: 18px;
+      font-weight: 600;
+      font-family: Arial, Helvetica, sans-serif;
+      letter-spacing: 0.5px;
+      box-shadow: 0 4px 12px rgba(10, 102, 194, 0.4);
+      transition: background-color 0.2s ease;
+      ">
+      LinkedIn
+    </div>
+
   </a>
 </div>
 
