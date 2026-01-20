@@ -74,22 +74,30 @@ Inglês Avançado (em andamento) – leitura técnica e comunicação profission
 
 ### 🌐 Redes sociais & contato
 
-<div style="display: flex; gap: 16px; align-items: center;">
-  <a href="mailto:mateusvenanciodedeus@gmail.com?subject=Contato%20via%20GitHub"
-     style="border: 3px solid gold; border-radius: 10px;">
-    <img
-      src="https://img.shields.io/badge/Gmail-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white&scale=1.2"
-      alt="Enviar email para Mateus"
-    />
-  </a>
-
+<div style="display: flex; align-items: center;">
   <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278"
      target="_blank"
-     style="border: 3px solid gold; border-radius: 10px;">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&scale=1.2"
-      alt="LinkedIn de Mateus"
-    />
+     style="
+       text-decoration: none;
+       border-radius: 12px;
+       padding: 6px;
+       background: linear-gradient(135deg, #5dade2, #3498db);
+       box-shadow: 0 4px 12px rgba(52, 152, 219, 0.5);
+     ">
+    <span style="
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 22px;
+      border-radius: 10px;
+      background-color: #ffffff;
+      font-weight: 600;
+      font-size: 16px;
+      color: #0a66c2;
+      font-family: Arial, sans-serif;
+    ">
+      💼 LinkedIn
+    </span>
   </a>
 </div>
 
