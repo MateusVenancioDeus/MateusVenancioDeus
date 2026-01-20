@@ -73,25 +73,11 @@ Inglês Avançado (em andamento) – leitura técnica e comunicação profission
 ### 🌐 Redes sociais & contato
 
 <div style="display: flex; align-items: flex-start;">
-  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278"
-     target="_blank"
-     style="text-decoration: none;">
-     
-  <div style="
-      background-color: #0a66c2;
-      color: #ffffff;
-      padding: 14px 36px;
-      border-radius: 8px;
-      font-size: 18px;
-      font-weight: 600;
-      font-family: Arial, Helvetica, sans-serif;
-      letter-spacing: 0.5px;
-      box-shadow: 0 4px 12px rgba(10, 102, 194, 0.4);
-      transition: background-color 0.2s ease;
-      ">
-      LinkedIn
-    </div>
-
+  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank">
+    <img 
+      src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
   </a>
 </div>
 
