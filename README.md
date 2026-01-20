@@ -74,30 +74,28 @@ Inglês Avançado (em andamento) – leitura técnica e comunicação profission
 
 ### 🌐 Redes sociais & contato
 
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: flex-start;">
   <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278"
      target="_blank"
-     style="
-       text-decoration: none;
-       border-radius: 12px;
-       padding: 6px;
-       background: linear-gradient(135deg, #5dade2, #3498db);
-       box-shadow: 0 4px 12px rgba(52, 152, 219, 0.5);
-     ">
-    <span style="
-      display: inline-flex;
-      align-items: center;
-      gap: 10px;
-      padding: 12px 22px;
-      border-radius: 10px;
-      background-color: #ffffff;
-      font-weight: 600;
-      font-size: 16px;
-      color: #0a66c2;
-      font-family: Arial, sans-serif;
-    ">
+     style="text-decoration: none;">
+    <button
+      style="
+        background: linear-gradient(135deg, #6ec1ff, #2f80ed);
+        color: white;
+        border: none;
+        border-radius: 14px;
+        padding: 14px 28px;
+        font-size: 16px;
+        font-weight: 600;
+        cursor: pointer;
+        box-shadow: 0 6px 18px rgba(47, 128, 237, 0.45);
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      "
+      onmouseover="this.style.transform='scale(1.05)'; this.style.boxShadow='0 8px 22px rgba(47,128,237,0.65)'"
+      onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 6px 18px rgba(47,128,237,0.45)'"
+    >
       💼 LinkedIn
-    </span>
+    </button>
   </a>
 </div>
 
