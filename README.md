@@ -74,13 +74,12 @@ Inglês Avançado (em andamento) – leitura técnica e comunicação profission
 
 ### 🌐 Redes sociais & contato
 
-<div>
+<div align="center">
   <a href="mailto:mateusvenanciodedeus@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="www.linkedin.com/in/mateus-vitor-venâncio-de-deus-b9bb02278" target="_blank">
+  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
-
 ---
