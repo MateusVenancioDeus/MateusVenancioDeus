@@ -1,13 +1,10 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
-### 🧠 Sobre mim
+lógica de programação, backend e projetos práticos
+🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação (5º período)
 💻 Programador Júnior com foco em lógica de programação, backend e projetos práticos
 📍 Brasília – DF
-
-🚀 Sobre mim
-
-- Sou estudante de Ciência da Computação com forte base em algoritmos, estruturas de dados e programação orientada a objetos. Tenho experiência prática no desenvolvimento de projetos acadêmicos e pessoais, utilizando C, Java e Python, com foco em escrever código limpo, organizado e funcional.
 
 Tenho grande interesse em desenvolvimento backend, automação e integração com bancos de dados, sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento de software.
 
