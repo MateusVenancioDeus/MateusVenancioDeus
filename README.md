@@ -4,6 +4,7 @@
 🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação (5º período)
+
 💻 Programador Júnior com foco em lógica de programação, backend e projetos práticos
 📍 Brasília – DF
 
@@ -35,16 +36,6 @@ Aplicações orientadas a objetos aplicando encapsulamento, herança e polimorfi
 Aplicação com interface gráfica integrada a banco de dados, realizando operações CRUD e organização de informações.
 
 👉 Todos os projetos estão documentados e versionados aqui no GitHub.
-
-📚 Formação & Aprendizado Contínuo
-
-Bacharelado em Ciência da Computação (em andamento – 5º período)
-
-Curso de Python Avançado(Cursando)
-
-Curso de Introdução à Cibersegurança – Cisco
-
-Inglês Avançado (em andamento) – leitura técnica e comunicação profissional
 
 📫 Contato
 
