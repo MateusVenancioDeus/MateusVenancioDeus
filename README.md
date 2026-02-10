@@ -41,8 +41,6 @@ Aplicação com interface gráfica integrada a banco de dados, realizando opera�
 
 📧 Email: mateusvenanciodedeus@gmail.com
 
-💼 LinkedIn: www.linkedin.com/in/mateus-vitor-venâncio-de-deus-b9bb02278
-
 ⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
 
 ---
