@@ -1,6 +1,6 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
 
-
+<img src="background.svg" width="100%" />
 🚀 Sobre mim
 
 🎓 Estudante de Ciência da Computação (5º período)
