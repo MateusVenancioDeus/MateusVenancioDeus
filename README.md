@@ -1,9 +1,12 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
-
-<img src="wave-background.svg" width="100%" />
-
-<h1 align="center">Mateus Vitor</h1>
-<p align="center">
+<text x="50%" y="55%"
+      text-anchor="middle"
+      font-family="monospace"
+      font-size="32"
+      fill="#e6f6ff"
+      opacity="0.95">
+  Mateus Vitor
+</text>
   Computer Science Student • Python Developer
 </p>
 🚀 Sobre mim
