@@ -1,11 +1,5 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
-<text x="50%" y="55%"
-      text-anchor="middle"
-      font-family="monospace"
-      font-size="32"
-      fill="#e6f6ff"
-      opacity="0.95">
-  Mateus Vitor
+
 </text>
   Computer Science Student • Python Developer
 </p>
