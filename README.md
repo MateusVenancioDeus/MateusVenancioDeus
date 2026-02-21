@@ -1,5 +1,55 @@
 <h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
 
+<svg viewBox="0 0 1200 300"
+     width="100%"
+     height="300"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="none">
+
+  <!-- Fundo -->
+  <rect width="1200" height="300" fill="#071b2d"/>
+
+  <!-- Onda principal -->
+  <path fill="#0b3c5d" opacity="0.9">
+    <animate attributeName="d" dur="8s" repeatCount="indefinite"
+      values="
+      M0 180 Q 150 120 300 160 T 600 170 T 900 150 T 1200 170 V300 H0 Z;
+      M0 170 Q 150 160 300 140 T 600 180 T 900 160 T 1200 150 V300 H0 Z;
+      M0 180 Q 150 120 300 160 T 600 170 T 900 150 T 1200 170 V300 H0 Z"/>
+  </path>
+
+  <!-- Reflexo / espuma -->
+  <path fill="#9fdcff" opacity="0.35">
+    <animate attributeName="d" dur="6s" repeatCount="indefinite"
+      values="
+      M0 165 Q 200 130 400 150 T 800 140 T 1200 155 V300 H0 Z;
+      M0 155 Q 200 150 400 130 T 800 155 T 1200 145 V300 H0 Z;
+      M0 165 Q 200 130 400 150 T 800 140 T 1200 155 V300 H0 Z"/>
+  </path>
+
+  <!-- Pontos brilhantes (partículas da água) -->
+  <g fill="white" opacity="0.6">
+    <circle cx="200" cy="150" r="1.5">
+      <animate attributeName="cx" from="0" to="1200" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="500" cy="170" r="1">
+      <animate attributeName="cx" from="0" to="1200" dur="14s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="800" cy="140" r="1.2">
+      <animate attributeName="cx" from="0" to="1200" dur="12s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- Texto estilo código (opcional) -->
+  <text x="40" y="60"
+        font-family="monospace"
+        font-size="18"
+        fill="#bfe9ff"
+        opacity="0.85">
+    flow.wave();
+  </text>
+
+</svg>
 <img src="background.svg" width="100%" />
 🚀 Sobre mim
 
