@@ -5,7 +5,9 @@
 <p align="center">
   <strong>Estudante de Ciência da Computação | Python Developer</strong>
 </p>
+
 <br>
+
 ### 💻 Sobre mim
 ---
 Estudante de Ciência da Computação (5º período) com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
