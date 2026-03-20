@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F,ffffff&height=200&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
 </p>
 
 <p align="center">
@@ -16,12 +16,12 @@ Estudante de Ciência da Computação (5º período ) com sólido interesse em e
 
 ## 📚 Competências & Áreas de Atuação
 
-- 🐍 **Desenvolvimento Backend:** Aplicação de **Python** para a construção de APIs, automação de processos e análise de dados estruturados.
-- 🗄️ **Gestão de Dados:** Proficiência em **SQL** para modelagem, consultas complexas e manipulação eficiente de bancos de dados relacionais.
-- 🔗 **Versionamento e Colaboração:** Utilização avançada de **Git e GitHub** para controle de versão, fluxos de trabalho colaborativos e documentação técnica.
-- 📊 **Business Intelligence:** Elaboração de dashboards estratégicos e visualização de dados utilizando **Power BI**.
-- 💡 **Engenharia de Software:** Aplicação de lógica de programação rigorosa, padrões de projeto e boas práticas de codificação (**Clean Code**).
-- 🧠 **Inteligência Artificial:** Estudo contínuo dos fundamentos de **Machine Learning** e algoritmos de IA para resolução de problemas preditivos.
+🐍 Backend: Desenvolvimento de APIs, automação de processos e manipulação de dados com Python.
+🗄️ Dados: Modelagem, consultas avançadas e otimização em bancos relacionais (SQL).
+🔗 Versionamento: Controle de versão e colaboração com Git e GitHub.
+📊 BI: Criação de dashboards e visualização de dados com Power BI.
+💡 Engenharia de Software: Aplicação de boas práticas, Clean Code e padrões de projeto.
+🧠 Inteligência Artificial: Estudo de Machine Learning e soluções preditivas.
 
 ---
 
@@ -53,5 +53,5 @@ Estudante de Ciência da Computação (5º período ) com sólido interesse em e
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer" alt="Banner Rodapé">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F,ffffff&height=100&section=footer" alt="Banner Rodapé">
 </p>
