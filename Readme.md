@@ -40,10 +40,6 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="32" height="32"/>
 </p>
 
-### 🎯 Objetivo
----
-Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
-
 ### ✉️ Contato
 ---
 <p align="left">
