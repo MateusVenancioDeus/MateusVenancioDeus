@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=180&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=42&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
 </p>
 
 <p align="center">
@@ -50,15 +50,16 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
 
 <br>
 
+### 🎯 Objetivo
+---
+Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
+
+<br>
+
 ### ✉️ Contato
 ---
 <p align="left">
-  <a href="mailto:mateusvenanciodedeus@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+  <a href="mailto:mateusvenanciodedeus@gmail.com"><img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <p align="center">
