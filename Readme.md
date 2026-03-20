@@ -11,15 +11,19 @@ Estudante de **Ciência da Computação (5º período)** com sólido interesse e
 ### 📂 Principais Projetos
 ---
 🚀 **API com Python (FastAPI)**
+
 • Desenvolvimento de API para processamento de dados e integração com IA, utilizando FastAPI.
 
 💻 **Sistema Bancário (Python + MySQL)**
+
 • Aplicação completa com interface gráfica (Tkinter) e persistência em banco de dados, incluindo operações CRUD.
 
 📦 **Estruturas de Dados em C**
+
 • Implementação de listas, filas e pilhas com foco em eficiência e gerenciamento de memória.
 
 ☕ **Sistema Bancário (Java)**
+
 • Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
 
 ### 🤖 Linguagens e Tecnologias
