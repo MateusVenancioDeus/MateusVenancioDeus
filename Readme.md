@@ -50,12 +50,6 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
 
 <br>
 
-### 🎯 Objetivo
----
-Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
-
-<br>
-
 ### ✉️ Contato
 ---
 <p align="left">
