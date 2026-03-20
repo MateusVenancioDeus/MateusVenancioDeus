@@ -8,23 +8,19 @@
 ---
 Estudante de **Ciência da Computação (5º período)** com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
 
-### 📂 Principais Projetos
----
-🚀 **API com Python (FastAPI)**
+## 📂 Projetos em Destaque
 
-• Desenvolvimento de API para processamento de dados e integração com IA, utilizando FastAPI.
+🚀 **API com Python (FastAPI)**  
+→ API para processamento de dados e integração com IA  
 
-💻 **Sistema Bancário (Python + MySQL)**
+💻 **Sistema Bancário (Python + MySQL)**  
+→ Sistema com interface Tkinter e operações CRUD em banco de dados  
 
-• Aplicação completa com interface gráfica (Tkinter) e persistência em banco de dados, incluindo operações CRUD.
+📦 **Estruturas de Dados em C**  
+→ Implementações de listas, filas e pilhas com foco em desempenho  
 
-📦 **Estruturas de Dados em C**
-
-• Implementação de listas, filas e pilhas com foco em eficiência e gerenciamento de memória.
-
-☕ **Sistema Bancário (Java)**
-
-• Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
+☕ **Sistema Bancário (Java)**  
+→ Aplicação orientada a objetos com boas práticas de POO  
 
 ### 🤖 Linguagens e Tecnologias
 ---
