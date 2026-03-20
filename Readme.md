@@ -43,20 +43,6 @@ Me chamo Mateus Venâncio, sou estudante de Ciência da Computação (5º perío
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=dracula"/>
-</p>
-
-### 💻 Tecnologias
-
-<!-- Para replicar o layout, estou usando dados fictícios para as porcentagens. Você pode ajustá-los conforme suas contribuições reais. -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dracula"/>
-</p>
-
 ---
 
 ## 📫 Contato
