@@ -10,17 +10,17 @@ Estudante de **Ciência da Computação (5º período)** com sólido interesse e
 
 ### 📂 Principais Projetos
 ---
-🚀 **API com Python (FastAPI)**  
-Desenvolvimento de API para processamento de dados e integração com IA, utilizando FastAPI.
+🚀 **API com Python (FastAPI)**
+• Desenvolvimento de API para processamento de dados e integração com IA, utilizando FastAPI.
 
-💻 **Sistema Bancário (Python + MySQL)**  
-Aplicação completa com interface gráfica (Tkinter) e persistência em banco de dados, incluindo operações CRUD.
+💻 **Sistema Bancário (Python + MySQL)**
+• Aplicação completa com interface gráfica (Tkinter) e persistência em banco de dados, incluindo operações CRUD.
 
-📦 **Estruturas de Dados em C**  
-Implementação de listas, filas e pilhas com foco em eficiência e gerenciamento de memória.
+📦 **Estruturas de Dados em C**
+• Implementação de listas, filas e pilhas com foco em eficiência e gerenciamento de memória.
 
-☕ **Sistema Bancário (Java)**  
-Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
+☕ **Sistema Bancário (Java)**
+• Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
 
 ### 🤖 Linguagens e Tecnologias
 ---
@@ -40,6 +40,10 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="32" height="32"/>
 </p>
 
+### 🎯 Objetivo
+---
+Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
+
 ### ✉️ Contato
 ---
 <p align="left">
@@ -49,4 +53,3 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=150&section=footer" alt="Banner Rodapé">
 </p>
-
