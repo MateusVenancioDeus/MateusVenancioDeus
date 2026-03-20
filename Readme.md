@@ -1,18 +1,12 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=180&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=42&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
-</p>
-
-<p align="center">
+  <br>
   <strong>Estudante de Ciência da Computação | Python Developer</strong>
 </p>
-
-<br>
 
 ### 💻 Sobre mim
 ---
 Estudante de **Ciência da Computação (5º período)** com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
-
-<br>
 
 ### 📂 Principais Projetos
 ---
@@ -27,8 +21,6 @@ Implementação de listas, filas e pilhas com foco em eficiência e gerenciament
 
 ☕ **Sistema Bancário (Java)**  
 Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
-
-<br>
 
 ### 🤖 Linguagens e Tecnologias
 ---
@@ -48,7 +40,9 @@ Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfis
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="intellij" width="32" height="32"/>
 </p>
 
-<br>
+### 🎯 Objetivo
+---
+Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
 
 ### ✉️ Contato
 ---
