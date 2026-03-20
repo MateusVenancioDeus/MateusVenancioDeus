@@ -10,29 +10,23 @@
 
 ### 💻 Sobre mim
 ---
-Estudante de Ciência da Computação (5º período) com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
+Estudante de **Ciência da Computação (5º período)** com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
 
 <br>
 
 ### 📂 Principais Projetos
 ---
-Aqui estão os projetos que desenvolvi recentemente com foco em eficiência e inovação:
+🚀 **API com Python (FastAPI)**  
+Desenvolvimento de API para processamento de dados e integração com IA, utilizando FastAPI.
 
-* 🚀 **Projeto Python Gemini API** - Integração e processamento de dados via IA utilizando FastAPI.
-* 📉 **Estrutura de Dados em C** - Algoritmos otimizados para monitoramento de sensores e gestão de memória.
-* 🏦 **Sistema Bancário Python** - Aplicação completa com interface Tkinter e persistência em MySQL.
-* ☕ **Sistema Bancário Java** - Desenvolvimento orientado a objetos aplicando conceitos avançados de POO.
+💻 **Sistema Bancário (Python + MySQL)**  
+Aplicação completa com interface gráfica (Tkinter) e persistência em banco de dados, incluindo operações CRUD.
 
-<br>
+📦 **Estruturas de Dados em C**  
+Implementação de listas, filas e pilhas com foco em eficiência e gerenciamento de memória.
 
-### 📚 O que estou aprendendo no momento
----
-* 🐍 **Python** para desenvolvimento e análise de dados.
-* 🗃️ **SQL** para consultas e manipulação de dados.
-* 🧰 **Git e GitHub** para versionamento e colaboração.
-* 📊 **Power BI** para visualização de dados.
-* 💻 **Lógica de programação** e boas práticas de código.
-* 🧠 **Fundamentos de IA** e Machine Learning.
+☕ **Sistema Bancário (Java)**  
+Aplicação orientada a objetos com uso de encapsulamento, herança e polimorfismo.
 
 <br>
 
@@ -56,6 +50,12 @@ Aqui estão os projetos que desenvolvi recentemente com foco em eficiência e in
 
 <br>
 
+### 🎯 Objetivo
+---
+Atuar como desenvolvedor backend, criando sistemas eficientes e escaláveis com Python e boas práticas de engenharia de software.
+
+<br>
+
 ### ✉️ Contato
 ---
 <p align="left">
@@ -67,10 +67,7 @@ Aqui estão os projetos que desenvolvi recentemente com foco em eficiência e in
   </a>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer" alt="Banner Rodapé">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=150&section=footer" alt="Banner Rodapé">
 </p>
-
 
