@@ -10,7 +10,7 @@
 
 ### 💻 Sobre mim
 ---
-Estudante de **Ciência da Computação (5º período)** com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Atualmente, resido em Brasília – DF.
+Desenvolvedor backend em formação, com experiência prática em Python, bancos de dados (MySQL) e construção de sistemas completos. Atuo no desenvolvimento de APIs, automação e aplicações com persistência de dados, aplicando conceitos de POO, estruturas de dados e boas práticas de engenharia de software.
 
 <br>
 
