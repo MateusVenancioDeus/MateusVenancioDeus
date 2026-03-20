@@ -10,18 +10,23 @@
 
 ## 🙋‍♂️ Sobre mim
 
-Estudante de Ciência da Computação (5º período ) com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Tenho foco em desenvolvimento backend, automação de processos e integração de sistemas com bancos de dados. Atualmente, resido em Brasília – DF.
+Estudante de Ciência da Computação (5º período) com foco em desenvolvimento backend e construção de soluções eficientes com Python. Experiência em projetos práticos envolvendo estruturas de dados, programação orientada a objetos e sistemas integrados a banco de dados (MySQL), incluindo aplicações com interface gráfica. Interesse em engenharia de software, automação e desenvolvimento de sistemas escaláveis, aplicando boas práticas e código limpo. Atualmente, resido em Brasília – DF.
 
 ---
 
 ## 📚 Competências & Áreas de Atuação
 
-- 🐍 **Desenvolvimento Backend:** Aplicação de **Python** para a construção de APIs, automação de processos e análise de dados estruturados.
-- 🗄️ **Gestão de Dados:** Proficiência em **SQL** para modelagem, consultas complexas e manipulação eficiente de bancos de dados relacionais.
-- 🔗 **Versionamento e Colaboração:** Utilização avançada de **Git e GitHub** para controle de versão, fluxos de trabalho colaborativos e documentação técnica.
-- 📊 **Business Intelligence:** Elaboração de dashboards estratégicos e visualização de dados utilizando **Power BI**.
-- 💡 **Engenharia de Software:** Aplicação de lógica de programação rigorosa, padrões de projeto e boas práticas de codificação (**Clean Code**).
-- 🧠 **Inteligência Artificial:** Estudo contínuo dos fundamentos de **Machine Learning** e algoritmos de IA para resolução de problemas preditivos.
+🐍 Backend: APIs, automação e processamento de dados com Python
+
+🗄️ Dados: SQL, modelagem e consultas em bancos relacionais
+
+🔗 Versionamento: Git e GitHub
+
+📊 BI: Dashboards e visualização com Power BI
+
+💡 Engenharia de Software: Clean Code e boas práticas
+
+🧠 IA: Fundamentos de Machine Learning
 
 ---
 
