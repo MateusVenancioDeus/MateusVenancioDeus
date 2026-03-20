@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF,000000&height=200&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=200&section=header&text=Mateus%20Vitor%20Venâncio%20de%20Deus&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" alt="Banner Topo">
 </p>
 
 <p align="center">
@@ -53,5 +53,5 @@ Estudante de Ciência da Computação (5º período ) com sólido interesse em e
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF,000000&height=100&section=footer" alt="Banner Rodapé">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=007BFF&height=100&section=footer" alt="Banner Rodapé">
 </p>
