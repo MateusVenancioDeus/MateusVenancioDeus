@@ -1,54 +1,57 @@
-<h1 align="center">Oii! Eu sou o Mateus Venâncio👋</h1>
-<h3 align="center">Computer Science Student • Python Developer</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=200&section=header&text=Mateus%20Venâncio&fontSize=70&animation=fadeIn&fontAlignY=35" alt="Banner Topo">
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <strong>Estudante de Ciência da Computação | Python Developer</strong>
+</p>
+
+---
+
+## 🙋‍♂️ Sobre mim
+
+Estudante de Ciência da Computação (5º período ) com sólido interesse em engenharia de software, análise de dados e arquitetura de sistemas. Dedico-me ao aprimoramento contínuo em lógica de programação e resolução de problemas complexos, buscando aplicar as melhores práticas de desenvolvimento para criar soluções eficientes e escaláveis. Tenho foco em desenvolvimento backend, automação de processos e integração de sistemas com bancos de dados. Atualmente, resido em Brasília – DF.
+
+---
+
+## 📚 Competências & Áreas de Atuação
+
+- 🐍 **Desenvolvimento Backend:** Aplicação de **Python** para a construção de APIs, automação de processos e análise de dados estruturados.
+- 🗄️ **Gestão de Dados:** Proficiência em **SQL** para modelagem, consultas complexas e manipulação eficiente de bancos de dados relacionais.
+- 🔗 **Versionamento e Colaboração:** Utilização avançada de **Git e GitHub** para controle de versão, fluxos de trabalho colaborativos e documentação técnica.
+- 📊 **Business Intelligence:** Elaboração de dashboards estratégicos e visualização de dados utilizando **Power BI**.
+- 💡 **Engenharia de Software:** Aplicação de lógica de programação rigorosa, padrões de projeto e boas práticas de codificação (**Clean Code**).
+- 🧠 **Inteligência Artificial:** Estudo contínuo dos fundamentos de **Machine Learning** e algoritmos de IA para resolução de problemas preditivos.
+
+---
+
+## 💻 Linguagens e Tecnologias
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
+</p>
+
+---
+
+## ✉️ Contato
+
+<p align="left">
   <a href="mailto:mateusvenanciodedeus@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mateusvenanciodedeus@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/mateus-vitor-ven%C3%A2ncio-de-deus-b9bb02278" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
 ---
 
-## 🚀 Sobre mim
-
-Me chamo Mateus Venâncio, sou estudante de Ciência da Computação (5º período ) e programador Júnior com foco em lógica de programação, backend e projetos práticos. Tenho grande interesse em desenvolvimento backend, automação e integração com bancos de dados, sempre buscando evoluir tecnicamente e aplicar boas práticas de desenvolvimento de software. Atualmente, resido em Brasília – DF.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div style="display: inline_block">  
-
-  <img align="center" alt="Mateus-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Mateus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mateus-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="Mateus-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Mateus-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Mateus-GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Mateus-VSCode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-</div>
-
----
-
-## 📂 Projetos em Destaque
-
-- **Estruturas de Dados em C:** Implementações de listas, filas, pilhas e algoritmos fundamentais, com foco em lógica e desempenho.
-- **Projetos em Java (POO ):** Aplicações orientadas a objetos aplicando encapsulamento, herança e polimorfismo.
-- **Sistema em Python com MySQL e Tkinter:** Aplicação com interface gráfica integrada a banco de dados, realizando operações CRUD e organização de informações.
-
-> Todos os projetos estão documentados e versionados aqui no GitHub.
-
----
-
----
-
-## 📫 Contato
-
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.
-
-📧 **Email:** mateusvenanciodedeus@gmail.com
-
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=F4D03F&height=100&section=footer" alt="Banner Rodapé">
+</p>
